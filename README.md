@@ -16,4 +16,11 @@ HIPOTEZY:
 ## Datasety
 **Główny**
 
-https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271
+  -'NBA Players' https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271
+
+**Pomocniczne**
+
+  -'NBA Player Hollinger's Stats' https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats
+
+  -'NBA Database' https://www.kaggle.com/datasets/wyattowalsh/basketballv
+
