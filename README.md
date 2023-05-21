@@ -11,7 +11,7 @@ Porównanie cech fizycznych z Europy i Stanów Zjednoczonych.
 HIPOTEZY: 
   - Niższi gracze mają wyższy procent asyst, ponieważ mogą mieć trudności w skutecznym rzucaniu na kosz lub mają mniejszą możliwość rywalizacji w powietrzu.
   - Wyższi i ciężcy gracze mają większą liczbę zbiórek (ofensywnie i defensywnie)
-  - Zawodnicy z Europy mają lepsze predyspozycje fizyczne 
+  - Zawodnicy z Europy mają lepsze predyspozycje fizyczne - większy odrzut przeciętych zawodników
 
 ## Datasety
 **Główny**
