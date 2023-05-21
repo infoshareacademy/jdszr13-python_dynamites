@@ -8,7 +8,7 @@
 Zbadanie tendencji w rozwoju kariery koszykarzy w odniesieniu do ich cech fizycznych oraz miejsca urodzenia z podziałem na kraj pochodzenia
 Porównanie cech fizycznych z Europy i Stanów Zjednoczonych.
 
-HIPOTEZY: 
+**HIPOTEZY**: 
   - Niższi gracze mają wyższy procent asyst, ponieważ mogą mieć trudności w skutecznym rzucaniu na kosz lub mają mniejszą możliwość rywalizacji w powietrzu.
   - Wyższi i ciężcy gracze mają większą liczbę zbiórek (ofensywnie i defensywnie)
   - Zawodnicy z Europy mają lepsze predyspozycje fizyczne - większy odrzut przeciętych zawodników
