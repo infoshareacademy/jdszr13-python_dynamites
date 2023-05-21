@@ -14,5 +14,6 @@ HIPOTEZY:
   - Zawodnicy z Europy mają lepsze predyspozycje fizyczne 
 
 ## Datasety
-**Główny
+**Główny**
+
 https://www.kaggle.com/datasets/justinas/nba-players-data?datasetId=98271
