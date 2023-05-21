@@ -21,5 +21,5 @@ Zbadanie tendencji w rozwoju kariery koszykarzy w odniesieniu do ich cech fizycz
 
   - 'NBA Player Hollinger's Stats' https://www.kaggle.com/datasets/hultm28/nba-player-hollingers-stats
 
-  - 'NBA Database' https://www.kaggle.com/datasets/wyattowalsh/basketballv
+  - 'NBA Database' https://www.kaggle.com/datasets/wyattowalsh/basketball
 
