@@ -5,8 +5,7 @@
 **TEMAT**: Hej, hej, tu NBA! - Porównanie cech fizycznych z Europy i Stanów Zjednoczonych
 
 ## Cel Projektu
-Zbadanie tendencji w rozwoju kariery koszykarzy w odniesieniu do ich cech fizycznych oraz miejsca urodzenia z podziałem na kraj pochodzenia
-Porównanie cech fizycznych z Europy i Stanów Zjednoczonych.
+Zbadanie tendencji w rozwoju kariery koszykarzy w odniesieniu do ich cech fizycznych oraz miejsca urodzenia, porównanie cech fizycznych z Europy i Stanów Zjednoczonych.
 
 **HIPOTEZY**: 
   - Niższi gracze mają wyższy procent asyst, ponieważ mogą mieć trudności w skutecznym rzucaniu na kosz lub mają mniejszą możliwość rywalizacji w powietrzu.
