@@ -23,3 +23,10 @@ Zbadanie tendencji w rozwoju kariery koszykarzy w odniesieniu do ich cech fizycz
 
   - 'NBA Database' https://www.kaggle.com/datasets/wyattowalsh/basketball
 
+## Prezentacja
+
+Prezentacja w formacie slajdów: [Link do prezentacji](https://docs.google.com/presentation/d/18haXOzUGX7EVuSwPWLi3k-cLzG5JEvoMITiSCJNZJok/edit#slide=id.p)
+
+## Dokumentacja prezentacji
+
+Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do dokumentu](https://docs.google.com/document/d/1bqCa5dLNBdcyiiTuMc9zM5dwnKP4KNmh5VOpTpz-lT4/edit)
