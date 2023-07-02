@@ -37,6 +37,9 @@ Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do doku
 
 **TEMAT**: Plan ataku Greenpeace - "miejsce na podtytuł"
 
+## Cel Projektu
+Analiza państw pod kątem produkcji CO2 oraz energii pochodzącej ze źródeł odnawialnych.
+
 **HIPOTEZY**: 
 - miejsce na hipotezy
 
