@@ -1,5 +1,5 @@
 # jdszr13-python_dynamites
-### Projekt SQL - Python Dynamintes
+# Projekt SQL
 **UCZESTNICY**: Szymon Cyranowicz, Katarzyna Figiel, Gabriela Piwar, Łukasz Sielicki
 
 **TEMAT**: Hej, hej, tu NBA! - Porównanie cech fizycznych z Europy i Stanów Zjednoczonych
@@ -32,7 +32,7 @@ Prezentacja w formacie slajdów: [Link do prezentacji](https://docs.google.com/p
 Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do dokumentu](https://docs.google.com/document/d/1bqCa5dLNBdcyiiTuMc9zM5dwnKP4KNmh5VOpTpz-lT4/edit)
 
 ---------------------------------------------------------------------------------------
-### Projekt Python - Python Dynamintes
+# Projekt Python 
 **UCZESTNICY**: Szymon Cyranowicz, Katarzyna Figiel, Gabriela Piwar, Łukasz Sielicki
 
 **TEMAT**: Plan ataku Greenpeace - "miejsce na podtytuł"
