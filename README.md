@@ -1,6 +1,6 @@
 # jdszr13-python_dynamites
 ## PROJEKTY GRUPOWE
 
-# Projekt SQL NBA
+### 1. Projekt SQL NBA
 
-# Projekt Python GreenPeace
+### 2. Projekt Python GreenPeace
