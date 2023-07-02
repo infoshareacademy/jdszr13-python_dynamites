@@ -30,3 +30,23 @@ Prezentacja w formacie slajdów: [Link do prezentacji](https://docs.google.com/p
 ## Dokumentacja prezentacji
 
 Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do dokumentu](https://docs.google.com/document/d/1bqCa5dLNBdcyiiTuMc9zM5dwnKP4KNmh5VOpTpz-lT4/edit)
+
+---------------------------------------------------------------------------------------
+### Projekt Python - Python Dynamintes
+**UCZESTNICY**: Szymon Cyranowicz, Katarzyna Figiel, Gabriela Piwar, Łukasz Sielicki
+
+**TEMAT**: Plan ataku Greenpeace - "miejsce na podtytuł"
+
+**HIPOTEZY**: 
+- miejsce na hipotezy
+
+## Datasety
+
+**Główny**
+
+  - [International Energy Statistics](https://www.kaggle.com/datasets/unitednations/international-energy-statistics?resource=download&select=all_energy_statistics.csv)
+
+**Pomocniczne**
+
+  - miejsce na coś więcej
+
