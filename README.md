@@ -41,7 +41,7 @@ Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do doku
 Analiza państw pod kątem produkcji CO2 oraz energii pochodzącej ze źródeł odnawialnych.
 
 **HIPOTEZY**: 
-- Chiny są największym producentem energii pochodzącej ze źródeł odnawialnych (OZE) [Link do artykułu] (https://swiatoze.pl/chiny-sa-liderem-oze-chca-przewodzic-swiatu-liczby-zrobia-na-tobie-wrazenie/)
+- Chiny są największym producentem energii pochodzącej ze źródeł odnawialnych (OZE) [Link do artykułu](https://swiatoze.pl/chiny-sa-liderem-oze-chca-przewodzic-swiatu-liczby-zrobia-na-tobie-wrazenie/)
 
 
 ## Datasety
