@@ -46,6 +46,7 @@ Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do doku
 - Kraje z większym dostępem do paliw kopalnych inwestują mniej w OZE.
 
 Hipotetyczne kraje narażone na atak GreenPeace.
+
 Ataki GreenPeace odbywają sie w krajach o wyższym PKB (wyższej świadomości ekologicznej) niezależnie od ich inwestycji w OZE.
 
 ## Datasety
