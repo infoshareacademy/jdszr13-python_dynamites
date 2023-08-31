@@ -35,16 +35,15 @@ Dokument do spisywania pomysłów, slajdów i treści prezentacji: [Link do doku
 # Projekt Python 
 **UCZESTNICY**: Szymon Cyranowicz, Katarzyna Figiel, Gabriela Piwar, Łukasz Sielicki
 
-**TEMAT**: Plan ataku Greenpeace - "miejsce na podtytuł"
+**TEMAT**: Plan ataku Greenpeace - Globalne zagrożenia ekologiczne
 
 ## Cel Projektu
-Analiza państw pod kątem produkcji CO2 oraz energii pochodzącej ze źródeł odnawialnych.
+- Analiza państw pod kątem produkcji CO2 oraz energii pochodzącej ze źródeł odnawialnych.
+- Ocena krajów pod kątem narażenia na atak greenpeace.
 
 **HIPOTEZY**: 
-- Kraje z większą produkcją CO2 idą bardziej w produkcję energii ze źródeł odnawialnych. Porównanie krajów z największą produkcją CO2.
-- Kraje z większym dostępem do paliw kopalnianych, inwestują mniej w OZE.
-- Kraje z wyższym PKB inwestują więcej z rozwiązania OZE.
-- ***Chiny są największym producentem energii pochodzącej ze źródeł odnawialnych (OZE) [Link do artykułu](https://swiatoze.pl/chiny-sa-liderem-oze-chca-przewodzic-swiatu-liczby-zrobia-na-tobie-wrazenie/)
+- Kraje wysoko rozwinięte inwestują więcej w rozwiązania OZE.
+- Kraje z większym dostępem do paliw kopalnych inwestują mniej w OZE.
 
 Hipotetyczne kraje narażone na atak GreenPeace.
 Ataki GreenPeace odbywają sie w krajach o wyższym PKB (wyższej świadomości ekologicznej) niezależnie od ich inwestycji w OZE.
