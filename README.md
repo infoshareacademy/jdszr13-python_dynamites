@@ -61,4 +61,27 @@ Ataki GreenPeace odbywają sie w krajach o wyższym PKB (wyższej świadomości 
   - [International Energy Statistics - 2019](https://www.kaggle.com/datasets/unitednations/international-energy-statistics?resource=download&select=all_energy_statistics.csv](https://unstats.un.org/unsd/energy/Energy-Questionnaire-Guidelines.pdf)https://unstats.un.org/unsd/energy/Energy-Questionnaire-Guidelines.pdf)
   - [Energy Statistics Yearbook - 2015](https://unstats.un.org/unsd/energystats/pubs/yearbook/documents/2015eyb.pdf)
     
+---------------------------------------------------------------------------------------
+# Projekt ML
+**UCZESTNICY**: Szymon Cyranowicz, Gabriela Piwar, Łukasz Sielicki
 
+**TEMAT**: Jak kosztowne jest zdrowie? (podtytuł)
+
+## Cel Projektu
+- Cel ML: określane kosztów zdrowia na podstawie parametrów ubezpieczonego
+- Cel aplikacji: pomoc przy wyznaczaniu progu ubezpieczenia zdrowotnego.
+
+**HIPOTEZY**: 
+- (miejsce na hipotezy)
+
+
+## Datasety
+
+**Główny**
+
+  - [Medical Cost Personal Datasets]([https://www.kaggle.com/datasets/unitednations/international-energy-statistics?resource=download&select=all_energy_statistics.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download))
+    
+
+**Pomocniczne**
+
+ - []
