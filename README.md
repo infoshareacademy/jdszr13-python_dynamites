@@ -71,6 +71,15 @@ Ataki GreenPeace odbywają sie w krajach o wyższym PKB (wyższej świadomości 
 - Cel ML: określane kosztów zdrowia na podstawie parametrów ubezpieczonego
 - Cel aplikacji: pomoc przy wyznaczaniu progu ubezpieczenia zdrowotnego.
 
+## Założenia projektu:
+- obróbka i analiza danych
+- zastosowanie klasyfikacji lub regresji
+- zastosowanie hiperparametrów w budowie modeli
+- wyniki badań w formie wykresów i tabel
+- rozwiązanie powinno przynieść przyrost wartości biznesowej
+- [opcjonalnie] zbadanie wpływu PCA na wyniki
+- [opcjonalnie] uwzględnienie zapotrzebowania na wartości wprowadzane przez użytkownika
+
 **HIPOTEZY**: 
 - (miejsce na hipotezy)
 
