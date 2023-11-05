@@ -89,8 +89,30 @@ Ataki GreenPeace odbywają sie w krajach o wyższym PKB (wyższej świadomości 
 **Główny**
 
   - [Medical Cost Personal Datasets]([https://www.kaggle.com/datasets/unitednations/international-energy-statistics?resource=download&select=all_energy_statistics.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download))
-    
 
+
+---------------------------------------------------------------------------------------
+# Projekt DL
+**UCZESTNICY**: Szymon Cyranowicz, Gabriela Piwar, Łukasz Sielicki
+
+**TEMAT**: Koty vs Psy - rozróżnianie kotów od psów
+
+## Cel Projektu
+- Cel DL: Zawężenie obszaru poszukiwań swojego pupila
+- Cel aplikacji: System do rozpoznawania rasy kota
+
+## Założenia projektu:
+- obróbka zdjęć
+- zastosowanie klasyfikacji
+- zastosowanie hiperparametrów w budowie modeli
+- wyniki badań w formie wykresów i tabel
+
+## Datasety
+
+**Główny**
+
+  - [Cats vs Dogs](https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset/code?datasetId=550917&sortBy=voteCount)
+    
 **Pomocniczne**
 
- - []
+ - [Gano Cat Breed Image Collection](https://www.kaggle.com/datasets/shawngano/gano-cat-breed-image-collection)
